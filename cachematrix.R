@@ -1,9 +1,9 @@
 ## I have used the example for assignment 2 as the basis for these functions.
 ## I have put the description of what the functions are doing in the function itself.
 ## This was done to aid in my understanding in what each part of the function was for.
-##
 
-## makeCacheMatrix takes a square matrix and stores the inverse
+
+## makeCacheMatrix takes a square matrix and caches the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
         ##This nulls out the m variable for use in this function
